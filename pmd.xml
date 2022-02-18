@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <ruleset name="quickstart"
-         xmlns="http://pmd.sourceforge.net/ruleset/2.0.0"
+         xmlns="http://pmd.sourceforge.net/ruleset/6.39.0"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xsi:schemaLocation="http://pmd.sourceforge.net/ruleset/2.0.0 https://pmd.sourceforge.io/ruleset_2_0_0.xsd">
+         xsi:schemaLocation="http://pmd.sourceforge.net/ruleset/6.39.0 https://pmd.sourceforge.io/ruleset_6_39_0.xsd">
 
 
 <include-pattern>./src/main/java/Player.java</include-pattern>
